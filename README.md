@@ -1,5 +1,1 @@
 - 👋 Hi, I’m Biswa
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on developing intelligent systems
-- 📫 How to reach me biswabandhuaich@gmail.com
